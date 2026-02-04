@@ -1,3 +1,5 @@
+![banner](https://awesomescreenshot.s3.amazonaws.com/image/3964926/58607340-8339b7c9a0f1b71d9d48f2d893244d4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20260204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260204T171647Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=36f53397040bacffda3b31b9882fda6843b66b2e95536305df2123ea6a721682)
+
 # Prototipo de Carcasa para Dispositivo de Monitoreo de Calidad de Agua
 
 Este repositorio contiene el archivo de diseño 3D para la carcasa (case) de un dispositivo de monitoreo de calidad del agua, desarrollado en el marco del proyecto de investigación PINV01-267.
